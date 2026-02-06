@@ -1,4 +1,4 @@
-# Cline Rule: No Cruft Code Policy
+# No Cruft Code Policy
 
 rules:
   no_cruft_code:

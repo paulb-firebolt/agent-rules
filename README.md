@@ -2,9 +2,9 @@
 
 This is a simple list of rules that I first created whilst using the VSCode extension Cline.
 
-The files ended up un ~/Documents/Client/Rules, I decided to leave them there and in other projects make reference to them so I have a consistent approach to agent coding.
+The files ended up un `~/Documents/Client/Rules`, I decided to leave them there and in other projects make reference to them so I have a consistent approach to agent coding.
 
-For CLAUDE.md and AGENT.md files in my projects I simply reference the rules like this:
+For `CLAUDE.md` and `AGENT.md` files in my projects I simply reference the rules like this:
 
 ```markdown
 # Agent Instructions

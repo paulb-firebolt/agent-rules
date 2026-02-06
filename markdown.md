@@ -1,4 +1,4 @@
-# Markdown Writing Standards for Claude
+# Markdown Writing Standards for Agents
 
 When writing or editing markdown documentation, follow these rules to comply with our markdownlint configuration:
 
