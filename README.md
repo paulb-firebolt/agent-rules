@@ -1,3 +1,4 @@
+![Agent Rules](.assets/ai_header.jpg)
 # Agent Rules
 
 This is a simple list of rules that I first created whilst using the VSCode extension Cline.
