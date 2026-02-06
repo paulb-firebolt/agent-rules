@@ -38,7 +38,7 @@ rules:
       - "A/B testing scenarios (with clear removal timeline)"
       - "Gradual migration with documented timeline and cleanup plan"
 
-# Integration with Cline
+# Integration with Agents
 prompt_additions:
   - "When modifying existing functionality, REPLACE files in-place rather than creating new ones"
   - "If you're about to create a file with Enhanced/Improved/Fixed/New prefix, STOP and ask if you should replace the existing file instead"

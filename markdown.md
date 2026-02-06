@@ -54,7 +54,7 @@ Content here...
   - `diff` - For showing differences
 
 Example:
-```markdown
+
 Run the following command:
 
 ```bash
@@ -69,8 +69,8 @@ Operations to perform:
 Running migrations:
   Applying auth.0001_initial... OK
 ```
-```
 
+```text
 ## URLs (MD034 - Bare URL used)
 - **Always wrap URLs in angle brackets `<>` or use proper markdown links**
 - Don't paste raw URLs directly in text
@@ -116,14 +116,18 @@ Here are the steps...
 Instead of:
 ```markdown
 ## Implementation
+
 ...
+
 ## Implementation
 ```
 
 Use:
 ```markdown
 ## Initial Implementation
+
 ...
+
 ## Final Implementation
 ```
 
